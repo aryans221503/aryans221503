@@ -17,20 +17,6 @@ I enjoy working on **real-world datasets**, improving model performance, and tra
 
 ---
 
-## 💼 Experience
-
-### **Data Science Intern** — Optifyx Technology  
-📍 New Delhi, India | 🗓 July 2025 – August 2025
-
-- Built an **Iris classification model** achieving **98% accuracy**
-- Implemented **ML pipelines**, improving performance by **25%**
-- Analyzed **unemployment data** to identify COVID-19 trends
-- Presented insights during internship review with positive feedback
-
----
-
-## 🚀 Projects
-
 ## 🚀 Projects
 
 ### 🔗 [EcoLens: Material Classification](https://github.com/aryans221503/EcoLens_Material-Checker)
@@ -65,37 +51,9 @@ I enjoy working on **real-world datasets**, improving model performance, and tra
 
 ---
 
-## 🏆 Achievements
 
-- 🥈 Runner-Up — **Build with Gemini Hackathon 2025**
-- 🏅 Departmental Winner — **Innotech 2024**
-- 📈 Active contributor on **Kaggle** as a Data Science Practitioner
 
----
 
-## 📜 Certifications
-
-- 📘 **Data Science Certification** — CodeWithHarry (Oct 2025)
-- 🤖 **GenAI Powered Data Analytics** — TATA (Nov 2025)
-
----
-
-## 👥 Positions of Responsibility
-
-- 👨‍💻 Member — **Innogeeks, KIET** (Nov 2023)
-- 🎨 Graphic Designer — **Kavyanjali Poetry Club, KIET** (Aug 2024)
-
----
-
-## 📊 GitHub Stats
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryans221503&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryans221503&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryans221503&theme=dark)
-
----
 
 ## 🤝 Connect With Me
 
